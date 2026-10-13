@@ -5,15 +5,15 @@
 
 *Parte A - Múltipla Escolha*
 
-1)B;
+1)B, pois quem recebe a propriedade é o container-pai, mas quem é afetado são seus filhos diretos.
 
-2)C;
+2)C, pois o valor padrão de flex-direction é row (linha).
 
-3)B;
+3)B, pois a linhas baseiam-se em retas horizontais (eixo principal).
 
-4)B;
+4)B, pois, com flex-direction: column, os itens serão distribuídos em forma de coluna, e com a propriedade justify-content, serão posicionados em relação ao eixo principal.
 
-5)C; 
+5)C;
 
 6)C; 
 
@@ -21,13 +21,13 @@
 
 8)B; 
 
-9)B; 
+9)B, pois diferente desta condição, o ideal a ser utilizado é a propriedade align-items.
 
 10)B; 
 
-11)C; 
+11)C, pois a propriedade flex-direction: row-reverse apresenta uma linha visualmente ao contrário, ou seja, de direita para a esquerda.
 
-12)A;
+12)A, pois justify-content: center o centraliza em relação ao eixo horizontal (principal) e align-items: center o centralia em relação ao eixo vertical (cruzado).
 
 
 *Parte B - Dissertativas*
